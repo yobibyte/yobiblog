@@ -1,4 +1,4 @@
-# All You Need is a Good Init (DRAFT in progress)
+# All You Need is a Good Init
 
 [ICLR 2016](http://www.iclr.cc/doku.php?id=iclr2016:main#accepted_papers_conference_track) has a really interesting [paper](http://arxiv.org/abs/1511.06422) "All You Need is a Good Init". In this post I will try to repeat the results of the authors and will do that in Torch.
 
@@ -23,7 +23,7 @@ What I found important for the implementation here:
 
 * L is a Convolutional or Fully Connected layer
 * For each layer we use a new minibatch.
-* We compute variance for the whole data in minibatch! (at first I thought that we compute variance feature-wise)
+* We compute variance for the whole data in minibatch: Var(B_L)! (at first I thought that we compute variance feature-wise)
 
 ## Torch implementation
 
@@ -89,10 +89,14 @@ epoch |with lsuv (lr=0.1)| with lsuv (lr=0.05) | without lsuv (lr=0.001) | with 
 9| 99.01%|98.9%|95.03%|95.87%
 10|98.96%|98.91|95.29%|96.15%
 
-I did not wait for 100 epochs as the authors of the original paper did, but the experiment shows that we can use bigger learning rates when we use LSUV.
-Training without LSUV with learning rates 0.05 and 0.01 did not converge after 10 epochs (the accuracy was the same 11.35% along 10 epochs). But, to be honest, this is not a really fair experiment. This MNIST code example does not use Batch Normalization, so, let's have a look at CIFAR.
+I did not wait for 100 epochs as the authors of the original paper did. At first, I thought that we can use bigger learning rates when we use LSUV, but then I realised that MNIST nolsuv case does not use BN, so, this is not true. And MNIST results just show us that training works and the accuracy rates are pretty comparable. Let's have a look at CIFAR-10 experiment.
 
-## CIFAR example (Still in progress)
+## CIFAR example
+
+I did not check the limit of the accuracy we can achieve, but just checked if the training is comparable in general. And it is.
+
+<img class='center' src="https://github.com/yobibyte/yobiblog/blob/master/pics/cifar_test_cost.png"/>
+
 
 ## References
 * "All You Need is a Good Init" [paper](http://arxiv.org/abs/1511.06422).
