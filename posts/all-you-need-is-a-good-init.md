@@ -93,7 +93,7 @@ I did not wait for 100 epochs as the authors of the original paper did. At first
 
 ## CIFAR example
 
-I did not check the limit of the accuracy we can achieve, but just checked if the training is comparable in general. And it is.
+I did not check the limit of the accuracy we can achieve, but just checked if the training is comparable in general. And it is. Test dataset accuracy is on the pic.
 
 <img class='center' src="https://github.com/yobibyte/yobiblog/blob/master/pics/cifar_test_cost.png"/>
 
