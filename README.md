@@ -15,3 +15,4 @@ Think that it is my 'index.html' page. Below you will find the links to the post
 * [init](https://github.com/yobibyte/yobiblog/blob/master/posts/init.md)
 * [Setting up a dev environment](https://github.com/yobibyte/yobiblog/blob/master/posts/setting-up-a-dev-environment.md)
 * [All you need is a good init](https://github.com/yobibyte/yobiblog/blob/master/posts/all-you-need-is-a-good-init.md)
+* [Shit non-proliferation manifesto](https://github.com/yobibyte/yobiblog/blob/master/posts/shit-non-proliferation.md)
