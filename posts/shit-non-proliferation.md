@@ -1,4 +1,4 @@
-# Shit Non-Proliferation manifesto
+# Shit Non-Proliferation Manifesto
 
 The amount of information we percieve every day is enormous. We get up in the
 morning and start scrolling facebook, checking the mailbox, tweeting about the
@@ -24,7 +24,7 @@ want you to do next time when you press the 'share' button: think if it is
 another piece of shit or not. Please, do not take part in the shit 
 proliferation.
 
-And this is our manifesto:
+And this is our <b>manifesto</b>:
 
 * [Information is power](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt). 
 But not all the information as well as power makes us stronger.
@@ -35,4 +35,5 @@ to make me do that.
 * We want make this world smarter
 * Thus, since now, every time we want to share something with our friends, we 
 think if they really need this.
-->Will you join us?<-
+
+<p align='center'>Will you join us?</p>
