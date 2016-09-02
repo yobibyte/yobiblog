@@ -109,7 +109,7 @@ As matrix multiplication is of paramount importance in computation, there are ve
 
 As we can see from our pictures with Cholesky decomposition algorithm, we have one system of linear equations to solve (BLAS routine for that is called TRSM) and one SYRK routine: **A**_br - **L**_bl * **L**_bl'. So, we need to use it and solve them efficiently. To get profit from 3rd level of BLAS we want to do operation with matrices, not on scalars or vectors. The general idea of the block algorithm is to find the decomposition for small **A**_tl in a naive way as I shown before and then utilise power of BLAS-3 level with SYRK and TRSM. So, as it can be seen on the picture below, each iteration we update the column of width k in a final decomposition, where k is the one dimension of **A**_bl. 
 
-<img class='center' src="pics/cholesky/cholesky_schema.png"/>
+<img class='center' src="../pics/cholesky/cholesky_schema.png"/>
 
 If you think, that the performance optimisation is solved so far, you are wrong. There is also a problem of paralellizing the code, for instance, and it's not easy at all. But that's all for this post. If you are still sceptical and say: 'Pffff, that's only for symmetric positive semi-definite matrices. My matrices are usually trickier!'. There are other [decompositions](https://en.wikipedia.org/wiki/Matrix_decomposition) for you. For further information read an amazing [book](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/B00BD2DVIC/) by Golub and Van Loan).
 
