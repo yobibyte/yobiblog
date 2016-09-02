@@ -13,21 +13,21 @@ The most important question we should have now, why the hell do we need such a t
 
 But why, you can say, cannot we just compute inverse of **A** and be happy with that? I did [this](https://en.wikipedia.org/wiki/Invertible_matrix#Analytic_solution) at school you will say.
 
-<img class='center' src="pics/cholesky/board.jpg"/>
+<img class='center' src="../pics/cholesky/board.jpg"/>
 
 Fist, it will take you for ages, second, it has so many operations that while you compute it, π will turn into 4 (and not only π) because of the round off error. Yeah, application of pure linear algebra in real life has many interesting issues and this is only one of them. 
 
 So, we want to find **L** such that **A**=**L****L**' and **L** is lower triangular. Lets write **A** and **L** as a [block matrix](https://en.wikipedia.org/wiki/Block_matrix) (*tl* is top left, *tr* is top right, *bl* is bottom left, *br* is bottom right. 
 
-<img class='center' src="pics/cholesky/block_matrices.png"/>
+<img class='center' src="../pics/cholesky/block_matrices.png"/>
 
 Using the properties of symmetry, positive-definiteness and triangularity we get the following:
 
-<img class='center' src="pics/cholesky/cholesky_blocks.png"/>
+<img class='center' src="../pics/cholesky/cholesky_blocks.png"/>
 
 So, the idea of the decomposition goes directly from the picture above:
 
-<img class='center' src="pics/cholesky/cholesky_alg.png"/>
+<img class='center' src="../pics/cholesky/cholesky_alg.png"/>
 
 Some things here:
   * there is recursive call of CHOLESKY here. The base case is matrix of one number, where decomposition is the following [a] = [sqrt(a)][sqrt(a)].
