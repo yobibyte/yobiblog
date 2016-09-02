@@ -111,6 +111,6 @@ As we can see from our pictures with Cholesky decomposition algorithm, we have o
 
 <img class='center' src="../pics/cholesky/cholesky_schema.png"/>
 
-If you think, that the performance optimisation is solved so far, you are wrong. There is also a problem of paralellizing the code, for instance, and it's not easy at all. But that's all for this post. If you are still sceptical and say: 'Pffff, that's only for symmetric positive semi-definite matrices. My matrices are usually trickier!'. There are other [decompositions](https://en.wikipedia.org/wiki/Matrix_decomposition) for you. For further information read an amazing [book](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/B00BD2DVIC/) by Golub and Van Loan).
+If you think, that the performance optimisation is solved so far, you are wrong. There is also a problem of paralellizing the code, for instance, and it's not easy at all. And we have not also discussed how large k should be. But that's all for this post. If you are still sceptical and say: 'Pffff, that's only for symmetric positive semi-definite matrices. My matrices are usually trickier!'. There are other [decompositions](https://en.wikipedia.org/wiki/Matrix_decomposition) for you. For further information read an amazing [book](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/B00BD2DVIC/) by Golub and Van Loan).
 
 P.S. If you see a mistake or just want to say something, please send me a mail to <a href="mailto:vitaliykurin@gmail.com">vitaliykurin@gmail.com</a>.
