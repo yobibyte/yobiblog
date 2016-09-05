@@ -6,7 +6,7 @@ This is yobiblog. Why having problems with static blog generators? Why solve dep
 
 ##How can I use this
 
-Think that it is my 'index.html' page. Below you will find the links to the posts (separate .md pages in this repo) and all the stuff. Welcome!
+Think that it is my 'index.html' page. Below you will find the links to the posts (each post is an issue) and all the stuff. Welcome!
 
 ### Pages
 * [about](https://github.com/yobibyte/yobiblog/blob/master/pages/about.md)
