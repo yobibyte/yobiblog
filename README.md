@@ -12,8 +12,8 @@ Think that it is my 'index.html' page. Below you will find the links to the post
 * [about](https://github.com/yobibyte/yobiblog/blob/master/pages/about.md)
 
 ### Posts
-* [init](https://github.com/yobibyte/yobiblog/blob/master/posts/init.md)
-* [Setting up a dev environment](https://github.com/yobibyte/yobiblog/blob/master/posts/setting-up-a-dev-environment.md)
-* [All you need is a good init](https://github.com/yobibyte/yobiblog/blob/master/posts/all-you-need-is-a-good-init.md)
-* [Shit non-proliferation manifesto](https://github.com/yobibyte/yobiblog/blob/master/posts/shit-non-proliferation.md)
-* [Cholesky decomposition](https://github.com/yobibyte/yobiblog/blob/master/posts/cholesky.md)
+* [init](https://github.com/yobibyte/yobiblog/issues/1)
+* [Setting up a dev environment](https://github.com/yobibyte/yobiblog/issues/2)
+* [All you need is a good init](https://github.com/yobibyte/yobiblog/issues/3)
+* [Shit non-proliferation manifesto](https://github.com/yobibyte/yobiblog/issues/4)
+* [Cholesky decomposition](https://github.com/yobibyte/yobiblog/issues/5)
