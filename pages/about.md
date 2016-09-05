@@ -2,7 +2,7 @@
 
 Master student at RWTH University
 
-### Education
+### Education and selected courses
 
 * RWTH Aachen University, M.Sc. 2015-current (Media Informatics program)
     * Pattern Recognition 
@@ -32,6 +32,12 @@ Master student at RWTH University
     * Computer Graphics
     * Computer Networks
     * Numerical Methods
+* Moscow State Institute of International Relations, B.A. 2008-2012 (Faculty of Economics, Informational Systems in International Business program):
+    * Mathematical Analysis
+    * Linear Algebra
+    * Probability theory and Mathematical statistics
+    * Econometrics
+    * Financial Econometrics
 
 
 ### Other relevant education
