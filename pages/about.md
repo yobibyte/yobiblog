@@ -1,6 +1,6 @@
 ## About
 
-Master student at RWTH University
+Master student at RWTH University. [CV](https://dl.dropboxusercontent.com/u/23750836/cv.pdf) and [twitter](https://twitter.com/y0b1byte)
 
 ### Education and selected courses
 
@@ -38,17 +38,11 @@ Master student at RWTH University
     * Probability theory and Mathematical statistics
     * Econometrics
     * Financial Econometrics
-
-
+    
 ### Other relevant education
 
 * Andrew Ng ML course on [coursera](https://www.coursera.org/learn/machine-learning/)
 * Prof. Hinton course on [coursera](https://www.coursera.org/course/neuralnets)
-
-### Links
-
-* [CV](https://dl.dropboxusercontent.com/u/23750836/cv.pdf)
-* [Twitter](https://twitter.com/y0b1byte)
 
 ### Misc
 * ![Project euler](https://projecteuler.net/profile/yobibyte.png "proj euler stats")
