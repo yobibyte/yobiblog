@@ -47,7 +47,6 @@ amount of bug fixes.
     * Game Theory and Operational Research
     * Optimal Control
     * Operating Systems
-    * Mathematical Modelling Using Computer Systems
     * Databases
     * Computer Graphics
     * Computer Networks
