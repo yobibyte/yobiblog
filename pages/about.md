@@ -1,17 +1,38 @@
 ## About
 
-Master student at RWTH University. [CV](https://dl.dropboxusercontent.com/u/23750836/cv.pdf) and [twitter](https://twitter.com/y0b1byte)
+CS Master student at RWTH University. [CV](https://dl.dropboxusercontent.com/u/23750836/cv.pdf) and [twitter](https://twitter.com/y0b1byte)
+
+### Experience
+
+* [Microsoft Research, Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), **student visitor**, *March 2017/May 2017*
+
+Visiting [Sebastian Nowozin](https://www.microsoft.com/en-us/research/people/senowozi/) and [Katja Hofmann](https://www.microsoft.com/en-us/research/people/kahofman/) to work on reinforcement learning for my [master thesis](http://atarigrandchallenge.com/about).
+
+* [RWTH Computer Vision Group](http://vision.rwth-aachen.de/), **student assistant**, *October 2015/December 2016*
+
+Implementing the ROS node for head orientation prediction.
+
+* [Terminal](https://www.terminalwms.ru/), **Java EE Developer/Project Manager**, *November 2013/August 2013*
+
+Leading a team of four people developing a warehouse management system from scratch. Currently the system is implemented (~20 users).
+
+* [CDC.ru](http://www.cdc.ru/), **Android developer**, *May 2013/November 2013*
+
+Member of a development team of a mobile app for an ERP system. Completely refactored reports module and made a large 
+amount of bug fixes.
 
 ### Education and selected courses
 
-* RWTH Aachen University, M.Sc. 2015-current (Media Informatics program)
-    * Pattern Recognition 
+* **RWTH Aachen University, M.Sc. 2015-current (Media Informatics program)**
+    * [Game AI](https://sites.google.com/site/bitgameai/)
+    * [High-Performance Matrix computations](http://hpac.rwth-aachen.de/teaching/hpmc-16/)
+    * [Pattern Recognition](https://sites.google.com/site/bitpatternrecognition/)
     * Deep Learning for Multimedia Pattern Recognition
-    * Advanced Machine Learning
+    * [Advanced Machine Learning[(http://www.vision.rwth-aachen.de/course/2/)
     * Distributed Systems
     * Computer Graphics
   
-* Moscow State University, B.Sc. 2012-2015 (Faculty of Computational Mathematics and Cybernetics)
+* **Moscow State University, B.Sc. 2012-2015 (Faculty of Computational Mathematics and Cybernetics)**
     * Mathematical analysis
     * Algorithms Algorithmic languages
     * Algebra and Analytical Geometry
@@ -27,17 +48,16 @@ Master student at RWTH University. [CV](https://dl.dropboxusercontent.com/u/2375
     * Optimal Control
     * Operating Systems
     * Mathematical Modelling Using Computer Systems
-    * Introduction to UNIX
     * Databases
     * Computer Graphics
     * Computer Networks
     * Numerical Methods
-* Moscow State Institute of International Relations, B.A. 2008-2012 (Faculty of Economics, Informational Systems in International Business program):
+    
+* **Moscow State Institute of International Relations, B.A. 2008-2012 (Faculty of Economics, Informational Systems in International Business program)**
     * Mathematical Analysis
     * Linear Algebra
     * Probability theory and Mathematical statistics
     * Econometrics
-    * Financial Econometrics
     
 ### Other relevant education
 
