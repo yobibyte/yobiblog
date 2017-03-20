@@ -4,7 +4,7 @@ CS Master student at RWTH University. [CV](https://dl.dropboxusercontent.com/u/2
 
 ### Experience
 
-* [Microsoft Research, Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), **student visitor**, *March 2017/May 2017*
+* [Microsoft Research, Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), **visiting student**, *March 2017/May 2017*
 
     Visiting [Sebastian Nowozin](https://www.microsoft.com/en-us/research/people/senowozi/) and [Katja Hofmann](https://www.microsoft.com/en-us/research/people/kahofman/) to work on reinforcement learning for my [master thesis](http://atarigrandchallenge.com/about).
 
