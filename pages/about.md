@@ -58,9 +58,15 @@ amount of bug fixes.
     * Probability theory and Mathematical statistics
     * Econometrics
     
+### University seminar and lab reports
+
+* The [report](https://dl.dropboxusercontent.com/u/23750836/i6_seminar_article.pdf) on Neural Turing Machines for ["Selected Topics in Human Language Technology and Pattern Recognition"](http://www-i6.informatik.rwth-aachen.de/web/Teaching/Seminars/SS16/HLT-PR/) seminar.
+
+* The SS16 [GameAI lab report](https://dl.dropboxusercontent.com/u/23750836/gameai_lab.pdf) with [prof. Bauckhage](https://scholar.google.de/citations?user=f9iP-80AAAAJ&hl=en) where we played [PlanetWars](https://www.youtube.com/edit?o=U&video_id=h9O3D5IDWn0) with Q-learning.
+
 ### Other relevant education
 
-* Andrew Ng ML course on [coursera](https://www.coursera.org/learn/machine-learning/)
+* Prof. Andrew Ng ML course on [coursera](https://www.coursera.org/learn/machine-learning/)
 * Prof. Hinton course on [coursera](https://www.coursera.org/course/neuralnets)
 
 ### Misc
