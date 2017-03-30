@@ -11,6 +11,8 @@ CS Master student at RWTH University. [CV](https://dl.dropboxusercontent.com/u/2
 * [RWTH Computer Vision Group](http://vision.rwth-aachen.de/), **student assistant**, *October 2015/December 2016*
 
     Implementing the ROS node for head orientation prediction.
+    
+    Working on human re-identification.
 
 * [Terminal](https://www.terminalwms.ru/), **Java EE Developer/Project Manager**, *November 2013/August 2013*
 
