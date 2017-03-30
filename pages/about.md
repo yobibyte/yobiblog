@@ -35,7 +35,7 @@ amount of bug fixes.
     * Computer Graphics
   
 * **Moscow State University, B.Sc. 2012-2015 (Faculty of Computational Mathematics and Cybernetics)**
-    * Mathematical analysis
+    * Real analysis, Complex analysis
     * Algorithms Algorithmic languages
     * Algebra and Analytical Geometry
     * Functional Analysis
@@ -45,7 +45,6 @@ amount of bug fixes.
     * Equations of Mathematical Physics
     * Probability Theory and Mathematical statistics
     * Programming languages
-    * Complex Analysis
     * Game Theory and Operational Research
     * Optimal Control
     * Operating Systems
