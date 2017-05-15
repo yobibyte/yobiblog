@@ -59,6 +59,10 @@ amount of bug fixes.
     * Probability theory and Mathematical statistics
     * Econometrics
     
+### Publications
+
+* **[Towards a Principled Integration of Multi-Camera Re-Identification and Tracking through Optimal Bayes Filters](https://arxiv.org/abs/1705.04608)**, *Lucas Beyer, Stefan Breuers*, **Vitaly Kurin**, *Bastian Leibe*, CVPR 2017 [ReID and MTMCT workshop](http://vision.cs.duke.edu/CVPR-2017-REID-MTMCT/).
+
 ### University seminar and lab reports
 
 * The [report](https://dl.dropboxusercontent.com/u/23750836/i6_seminar_article.pdf) on Neural Turing Machines for ["Selected Topics in Human Language Technology and Pattern Recognition"](http://www-i6.informatik.rwth-aachen.de/web/Teaching/Seminars/SS16/HLT-PR/) seminar.
