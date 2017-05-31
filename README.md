@@ -19,3 +19,4 @@ Think that it is my 'index.html' page. Below you will find the links to the post
 * [All you need is a good init](https://github.com/yobibyte/yobiblog/issues/3)
 * [Shit non-proliferation manifesto](https://github.com/yobibyte/yobiblog/issues/4)
 * [Cholesky decomposition](https://github.com/yobibyte/yobiblog/issues/5)
+* [Microsoft Research Visit Post Mortem](https://github.com/yobibyte/yobiblog/issues/6)
