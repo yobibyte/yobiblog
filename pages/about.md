@@ -61,6 +61,7 @@ amount of bug fixes.
     
 ### Publications
 
+* **[The Atari Grand Challenge Dataset](https://arxiv.org/abs/1705.10998)**, **Vitaly Kurin**, Sebastian Nowozin, Katja Hofmann, Lucas Beyer, and Bastian Leibe. arXiv preprint arXiv:1705.10998, 2017.
 * **[Towards a Principled Integration of Multi-Camera Re-Identification and Tracking through Optimal Bayes Filters](https://arxiv.org/abs/1705.04608)**, *Lucas Beyer, Stefan Breuers*, **Vitaly Kurin**, *Bastian Leibe*, CVPR 2017 [ReID and MTMCT workshop](http://vision.cs.duke.edu/CVPR-2017-REID-MTMCT/).
 
 ### University seminar and lab reports
