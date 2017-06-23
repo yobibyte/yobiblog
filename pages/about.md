@@ -2,6 +2,11 @@
 
 CS Master student at RWTH University. [CV](https://dl.dropboxusercontent.com/u/23750836/cv.pdf) and [twitter](https://twitter.com/y0b1byte)
 
+### Publications
+
+* **[The Atari Grand Challenge Dataset](https://arxiv.org/abs/1705.10998)**, **Vitaly Kurin**, Sebastian Nowozin, Katja Hofmann, Lucas Beyer, and Bastian Leibe. arXiv preprint arXiv:1705.10998, 2017.
+* **[Towards a Principled Integration of Multi-Camera Re-Identification and Tracking through Optimal Bayes Filters](https://arxiv.org/abs/1705.04608)**, *Lucas Beyer, Stefan Breuers*, **Vitaly Kurin**, *Bastian Leibe*, CVPR 2017 [ReID and MTMCT workshop](http://vision.cs.duke.edu/CVPR-2017-REID-MTMCT/).
+
 ### Experience
 
 * [Microsoft Research Cambridge, UK](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), **visiting student**, *March 2017/May 2017*
@@ -40,14 +45,13 @@ amount of bug fixes.
     * Algebra and Analytical Geometry
     * Functional Analysis
     * Discrete Mathematics
-    * Computer Architecture and Assembly language
+    * Computer Architecture and Assembly language, Operating Systems
     * Differential Equations
     * Equations of Mathematical Physics
     * Probability Theory and Mathematical statistics
     * Programming languages
     * Game Theory and Operational Research
     * Optimal Control
-    * Operating Systems
     * Databases
     * Computer Graphics
     * Computer Networks
@@ -59,11 +63,6 @@ amount of bug fixes.
     * Probability theory and Mathematical statistics
     * Econometrics
     
-### Publications
-
-* **[The Atari Grand Challenge Dataset](https://arxiv.org/abs/1705.10998)**, **Vitaly Kurin**, Sebastian Nowozin, Katja Hofmann, Lucas Beyer, and Bastian Leibe. arXiv preprint arXiv:1705.10998, 2017.
-* **[Towards a Principled Integration of Multi-Camera Re-Identification and Tracking through Optimal Bayes Filters](https://arxiv.org/abs/1705.04608)**, *Lucas Beyer, Stefan Breuers*, **Vitaly Kurin**, *Bastian Leibe*, CVPR 2017 [ReID and MTMCT workshop](http://vision.cs.duke.edu/CVPR-2017-REID-MTMCT/).
-
 ### University seminar and lab reports
 
 * The [report](https://dl.dropboxusercontent.com/u/23750836/i6_seminar_article.pdf) on Neural Turing Machines for ["Selected Topics in Human Language Technology and Pattern Recognition"](http://www-i6.informatik.rwth-aachen.de/web/Teaching/Seminars/SS16/HLT-PR/) seminar.
