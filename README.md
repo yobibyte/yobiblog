@@ -1,6 +1,7 @@
 # yobibyte.github.io
 
-Hi there! My nave is Vitaly Kurin and currently I'm a master student at [RWTH University](http://www.rwth-aachen.de/cms/~a/root/?lidx=1). I also work as a student assistant at [Computer Vision lab](http://www.vision.rwth-aachen.de/) with [Lucas Beyer](http://www.vision.rwth-aachen.de/person/11/) and professor [Bastian Leibe](http://www.vision.rwth-aachen.de/person/1/). More info can be found [here](https://github.com/yobibyte/yobiblog/blob/master/pages/about.md).
+Hi there! My nave is Vitaly Kurin and currently I'm a Juniour Researcher in [Morpheus Labs](http://morpheuslabs.co.uk/) in Oxford. 
+More info can be found [here](https://github.com/yobibyte/yobiblog/blob/master/pages/about.md).
 
 ## What is that??? o_O
 
