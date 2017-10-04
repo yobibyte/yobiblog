@@ -14,9 +14,10 @@ Think that it is my 'index.html' page. Below you will find the links to the post
 * [about](https://github.com/yobibyte/yobiblog/blob/master/pages/about.md)
 
 ### Posts
-* [init](https://github.com/yobibyte/yobiblog/issues/1)
-* [Setting up a dev environment](https://github.com/yobibyte/yobiblog/issues/2)
-* [All you need is a good init](https://github.com/yobibyte/yobiblog/issues/3)
-* [Shit non-proliferation manifesto](https://github.com/yobibyte/yobiblog/issues/4)
-* [Cholesky decomposition](https://github.com/yobibyte/yobiblog/issues/5)
+* [An overview of the evaluation procedures for the Atari 2600 domain](https://github.com/yobibyte/yobiblog/issues/7)
 * [Microsoft Research Visit Post Mortem](https://github.com/yobibyte/yobiblog/issues/6)
+* [Cholesky decomposition](https://github.com/yobibyte/yobiblog/issues/5)
+* [Shit non-proliferation manifesto](https://github.com/yobibyte/yobiblog/issues/4)
+* [All you need is a good init](https://github.com/yobibyte/yobiblog/issues/3)
+* [Setting up a dev environment](https://github.com/yobibyte/yobiblog/issues/2)
+* [init](https://github.com/yobibyte/yobiblog/issues/1)
