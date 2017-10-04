@@ -1,6 +1,6 @@
 ## About
 
-CS Master student at RWTH University. [CV](https://dl.dropboxusercontent.com/u/23750836/cv.pdf) and [twitter](https://twitter.com/y0b1byte)
+CS Master student at RWTH University. [CV](https://www.dropbox.com/s/588c4aexpwzbq43/cv.pdf?dl=0) and [twitter](https://twitter.com/y0b1byte)
 
 ### Publications
 
